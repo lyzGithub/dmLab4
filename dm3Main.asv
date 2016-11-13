@@ -1,0 +1,7 @@
+data1TestPath = 'data/data1/dataset1-a9a-testing.txt';
+data1TrainPath = 'data/data1/dataset1-a9a-training.txt';
+data2TestPath = 'data/data2/covtype-testing.txt';
+data2TrainPath = 'data/data2/covtype-training.txt';
+
+germanMatrix = load(germanDataPath);
+mnistMatrix = load(mnistDataPath);
